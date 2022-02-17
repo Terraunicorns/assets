@@ -580,5 +580,13 @@ module.exports = {
       icon: "https://gofundust.money/favicon.png",
       homepage: "https://gofundust.money/",
     },
+   terra1spxlwmea8qkc0y9uktj76nvyv73k364yrh9qjs: {
+      contract: "terra1spxlwmea8qkc0y9uktj76nvyv73k364yrh9qjs",
+      name: "Terra Unicorns - Items Collection",
+      symbol: "UNICITEMS",
+      icon: "https://static.wixstatic.com/media/5a6d96_2e307fcdd24d44d089bda4365a48b40b~mv2.jpeg",
+      homepage: "https://terraunicorns.com/",
+      marketplace: ["https://randomearth.io/collections/terra1spxlwmea8qkc0y9uktj76nvyv73k364yrh9qjs"],
+    },
   },
 };
